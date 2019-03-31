@@ -4,6 +4,8 @@ A metamask extension for Ravencoin
 ![ravenmask](https://gateway.ravenland.org/ipfs/QmV7UNzXC9XfBBtyWo1U7KhE3DiJ8mHxokXbWAbbVKSWoU)
 A girl cannot tell a man when exactly he must do a thing. A man cannot make a thing happen before it is time.
 
+# Definition of the Problem
+
 Ethereum is an open source blockchain based distributed-computing platform which features a scripting smart contract functionality. Ethereum uses a slightly modified version of the Nakamato consensus to provide it's utility. 
 
 Ravencoin is an open source blockchain fork of the bitcoin ledger, which differs somewhat from ethereum lacking the Ethereum Virtual Machine (EVM); ravencoin then operates with an unmodified consnesus of the bitcoin ledger, except that it has support for electronicized tokens, within it, which bitcoin does not have.  The ravencoin asset layer allows users to own asset tokens within their ravencoin (fork of bitcoin). The ravencoin wallets asset functions work in a similar and much more user accessible manner when compared to Ethereums ERC20, except for a lack of some functions which EVM provides allowing for automated contractual trust to be made between two parties, such as 4 ETH for 4000 MEDICI tokens. 
@@ -11,6 +13,8 @@ Ravencoin is an open source blockchain fork of the bitcoin ledger, which differs
 On the ravencoin network it is largely dependent on the trustworthiness of the party, and a 'proof of promise' can be exchanged within the respective ledger using the newly added ravencoin asset layer, however assets cannot be transfered conditionally, via script, or exchanged without intermediary (yet).
 
 One existing problem with Ravencoin is that its lack of an EVM (Ethereum Virtual Machine) and a lack of a scripting language natively within the execution of the chain, make it more difficult to create an autonomous contract that exists between two parties that can be automatically enforced. This does however appear possible when consideration is made to the IPFS objects and hashes it contains.
+
+# Potential Solutions
 
 One potential solution to this problem is by creating an application similar to Ethereums 'Metamask', that could sit within the browsers and the ravencoin layer, which could act as basic smartscript mechanism, to allow an execution within asset base for the transactioning of assets between multiple parties to refer to the same reference and ravend on the chain depending on those ipfs conditions to be met in some way may be able to take a reasonable step to issue, prevent issue or transfer an asset.
 
