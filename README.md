@@ -24,7 +24,7 @@ One reasonable but incomplete method is an autonomous listener agent on the bloc
 
 As mentioned previously this may be done via some memo or hash indication, whereby each buyer and seller both indicate the key or ipfs_hash that is relevant to the transaction, and this in turn can be used to programatically create the necesary transaction instructions to the listener. This would involve the creation of another smaller network of nodes, that used a similar or modified version of the ravend software to essentially allow transactions which are in no way connected to eachother by smartscript, to be infact connected by a unique reference that is operable as a transaction on the chain. This may require significant modification however it is hoped thru a community effort that it will be possible to create a protocol or standard of interaction compatible with the existing codebase of ravencoin asset layer, with minimum new functions added to ravencoin. 
 
-#Bruce Fentons Check List for Security issuers
+# Bruce Fentons Check List for Security issuers
 
 For securities to work for issuers the issuers will need certain things:
 
