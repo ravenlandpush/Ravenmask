@@ -16,12 +16,12 @@ One potential solution to this problem is by creating an application similar to 
 
 For securities to work for issuers the issuers will need certain things:
 
--> – They will need to know who their shareholders are in most cases
--> – They will need to have compliance functions and communications functions
--> – They will need to be able to communicate with and pay funds to holders
--> – They will need the ability to revoke the shares 
--> – They would need to the ability to issue more
--> – In many cases, especially for many current offerings and STOs, the issuers will need to control who it can transfer to and how – such as through accredited investors and so on.
+* They will need to know who their shareholders are in most cases
+* They will need to have compliance functions and communications functions
+* They will need to be able to communicate with and pay funds to holders
+* They will need the ability to revoke the shares 
+* They would need to the ability to issue more
+* In many cases, especially for many current offerings and STOs, the issuers will need to control who it can transfer to and how – such as through accredited investors and so on.
 
 Although Ravencoin does not have smart contracts, it does have a manner of referencing a unique file object, within such an object, transaction commands could be stored, and, the unique file object could be only conditionally added to the ravencoin chain when 2 parties have acceptably fulfilled certain conditions such as making a payment to a particular address. Naturally the example given is a more centralized programmatic description of the aformentioned, however it is theorized that the same may be possible using completely decentralized principle to achieve the same, with minimal modifications to ravend, and some additional application such as the one proposed - Ravenmask.
 
