@@ -6,6 +6,8 @@ A girl cannot tell a man when exactly he must do a thing. A man cannot make a th
 
 # Definition of the Problem
 
+A girl cannot tell a community how exactly they must do a thing.
+
 Ethereum is an open source blockchain based distributed-computing platform which features a scripting smart contract functionality. Ethereum uses a slightly modified version of the Nakamato consensus to provide it's utility. 
 
 Ravencoin is an open source blockchain fork of the bitcoin ledger, which differs somewhat from ethereum lacking the Ethereum Virtual Machine (EVM); ravencoin then operates with an unmodified consnesus of the bitcoin ledger, except that it has support for electronicized tokens, within it, which bitcoin does not have.  The ravencoin asset layer allows users to own asset tokens within their ravencoin (fork of bitcoin). The ravencoin wallets asset functions work in a similar and much more user accessible manner when compared to Ethereums ERC20, except for a lack of some functions which EVM provides allowing for automated contractual trust to be made between two parties, such as 4 ETH for 4000 MEDICI tokens. 
