@@ -6,7 +6,7 @@ A girl cannot tell a man when exactly he must do a thing. A man cannot make a th
 
 # Definition of the Problem
 
-A girl cannot tell a community how exactly they must do a thing.
+A man cannot tell a community how exactly they must do a thing.
 
 Ethereum is an open source blockchain based distributed-computing platform which features a scripting smart contract functionality. Ethereum uses a slightly modified version of the Nakamato consensus to provide it's utility. 
 
