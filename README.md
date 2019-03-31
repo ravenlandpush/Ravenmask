@@ -12,7 +12,7 @@ Ravencoin is an open source blockchain fork of the bitcoin ledger, which differs
 
 On the ravencoin network it is largely dependent on the trustworthiness of the party, and a 'proof of promise' can be exchanged within the respective ledger using the newly added ravencoin asset layer, however assets cannot be transfered conditionally, via script, or exchanged without intermediary (yet).
 
-One existing problem with Ravencoin is that its lack of an EVM (Ethereum Virtual Machine) and a lack of a scripting language natively within the execution of the chain, make it more difficult to create an autonomous contract that exists between two parties that can be automatically enforced. This does however appear possible when consideration is made to the IPFS objects and hashes it contains.
+One existing problem with Ravencoin is that its lack of an EVM (Ethereum Virtual Machine) and a lack of a scripting language natively within the execution of the chain, make it more difficult to create an autonomous contract that exists between two parties that can be automatically enforced _whilst remaining decentralized_. This does however appear possible when consideration is made to the IPFS objects and hashes it contains.
 
 # Potential Solutions
 
