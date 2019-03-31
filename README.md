@@ -33,7 +33,7 @@ For securities to work for issuers the issuers will need certain things:
 * They would need to the ability to issue more
 * In many cases, especially for many current offerings and STOs, the issuers will need to control who it can transfer to and how – such as through accredited investors and so on.
 
-[A man accepts a challenge](https://gateway.ravenland.org/ipfs/QmTFxfbrULLCwW5aZKAbbrgRkSj2i3qSQ6yddwSXibuaia)
+![A man accepts a challenge](https://gateway.ravenland.org/ipfs/QmTFxfbrULLCwW5aZKAbbrgRkSj2i3qSQ6yddwSXibuaia)
 
 Although Ravencoin does not have smart contracts, it does have a manner of referencing a unique file object, within such an object, transaction commands could be stored, and, the unique file object could be only conditionally added to the ravencoin chain when 2 parties have acceptably fulfilled certain conditions such as making a payment to a particular address. Naturally the example given is a more centralized programmatic description of the aformentioned, however it is theorized that the same may be possible using completely decentralized principle to achieve the same, with minimal modifications to ravend, and some additional application such as the one proposed - Ravenmask.
 
