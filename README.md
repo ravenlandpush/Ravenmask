@@ -28,6 +28,7 @@ As mentioned previously this may be done via some memo or hash indication, where
 
 # Bruce Fentons Check List for Security issuers
 
+ 
 For securities to work for issuers the issuers will need certain things:
 
 * They will need to know who their shareholders are in most cases
@@ -36,6 +37,17 @@ For securities to work for issuers the issuers will need certain things:
 * They will need the ability to revoke the shares 
 * They would need to the ability to issue more
 * In many cases, especially for many current offerings and STOs, the issuers will need to control who it can transfer to and how – such as through accredited investors and so on.
+
+>For most projects the effort is to build these functions into smart contracts.
+
+>The challenge of smart contracts is that they have both scaling and potential security issues.
+
+>The benefit of a much lighter and more straightforward protocol like Raven is that it has less of the complexity the issues that smart contracts have and can benefit from the scaling and security features that are well tested and Bitcoin.
+
+>However, the BIG major drawback about this is that the tokens are not very programmable and are very rigid.
+
+>Most likely they will need to be second layer solutions built on this to make it so that these tokens can have the same functionality that something on the smart contracts platform like Ethereum would have. 
+>- bruce fenton
 
 ![A man accepts a challenge](https://gateway.ravenland.org/ipfs/QmTFxfbrULLCwW5aZKAbbrgRkSj2i3qSQ6yddwSXibuaia)
 
