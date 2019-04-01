@@ -1,4 +1,4 @@
-# ravenmask
+# Ravenmask
 A metamask extension for Ravencoin
 
 ![ravenmask](https://gateway.ravenland.org/ipfs/QmV7UNzXC9XfBBtyWo1U7KhE3DiJ8mHxokXbWAbbVKSWoU)
